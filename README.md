@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your project.
 
-Skills: PYTHON / JAVA /  SPRING BOOT / DATABASE / FLUTTER/ REACT 
+Skills: PYTHON / JAVA /  SPRING BOOT / MySQL / FLUTTER/ REACT 
 
 - 🔭 I’m currently working on some project's for my future goals. 
 - 🌱 I’m currently learning PYTHON 
