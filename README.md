@@ -1,15 +1,14 @@
-![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/451598009_999564418459362_6819775107447216753_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=PeqExKEMbKAQ7kNvgFHP8op&_nc_ht=scontent.fdac7-1.fna&oh=00_AYABSCgSU7DwL34YnfZEjmtuyIEtaQKBVGrC80aqxLvgIg&oe=669B4F71)
 ## Hi there (Assalamu Alaikum)👋, I'm Homayra Anjum Tamanna
 ### Web Developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your project.
 
-Skills: PYTHON / JAVA /  SPRING BOOT / MySQL / FLUTTER/ REACT 
+Skills: HTML5 / CSS3 /  JavaScript / Bootstrap5 / Figma / ReactJS / Tailwind CSS / MySQL
 
 - 🔭 I’m currently working on some project's for my future goals. 
-- 🌱 I’m currently learning PYTHON 
+- 🌱 I’m currently learning JavaScript & ReactJS 
 - 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about PYTHON (Web Development) 
+- 💬 Ask me about Front-End & UI Design (Website Development) 
 - 📫 How to reach me: my Facebook account ID (Messenger) 
 
 
