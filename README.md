@@ -1,5 +1,5 @@
 <h1 align="center">Hi (Assalamu Alaikum)👋, I'm Homayra Anjum Tamanna</h1>
-<h3 align="center">A passionate (Front-End & UI Website Developer) with a strong focus on building user-friendly, responsive, and visually appealing web interfaces. I enjoy creating impactful digital products and always strive to build efficient and scalable solutions.  
+<h3 align="center">A passionate (Front-End Website Developer & UI Designer) with a strong focus on building user-friendly, responsive, and visually appealing web interfaces. I enjoy creating impactful digital products and always strive to build efficient and scalable solutions.  
 Currently exploring modern web technologies and continuously sharpening my skills to deliver better user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjum357&label=Profile%20views&color=0e75b6&style=flat" alt="anjum357" /> </p>
