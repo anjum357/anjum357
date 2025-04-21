@@ -8,7 +8,7 @@ Currently exploring modern web technologies and continuously sharpening my skill
 
 - 🔭 I’m currently working on studying B.Sc in CSE
 
-- 🌱 I’m currently learning learning PHP & ReactJS
+- 🌱 I’m currently learning PHP & ReactJS & Tailwind CSS
 
 - 👯 I’m looking to collaborate on collaborate on GitHub
 
